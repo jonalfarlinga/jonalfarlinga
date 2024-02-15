@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonalfarlinga
-- 👀 I’m interested in Data Analytics and Programming
+- 👀 I have a broad list of skills and competencies, but I taught myself to program computers in high school, and that skill is still close to my heart. I see programming as an art for left-brain thinkers. A clearly written and bug-free program is an expression of the author's skill and expertise as much as an oil painting. 
 - 🌱 I’m currently learning Python and Javascript through HackReactor Boot Camp
 - 📫 How to reach me: message on GitHub or LinkedIn
 
