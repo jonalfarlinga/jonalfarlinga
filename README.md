@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Denny
 
 ### About me
----
 As a high school student, my fascination with software development sparked a lifelong passion for software development. Despite career detours, my affinity for problem solving has remained unwavering. I thrive on collaborative projects and effective project management, orchestrating cohesive workflows for optimal outcomes. Transitioning towards software development aligns with my pursuit of happiness and productivity, fueling my daily quest for discovery and problem-solving. 
 
 My approach to work emphasizes practicality, prioritizing functionality while maintaining adherence to standards and best practices. Outside of software, my experiences as a sailor taught me valuable lessons in holistic thinking and adaptability, mirroring my approach to project management. 
