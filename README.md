@@ -8,10 +8,10 @@ My approach to my work emphasizes practicality, prioritizing functionality while
 Looking ahead, I aspire to design impactful systems that aid people regardless of scale, aiming to be a reliable support figure and providing assistance when needed. In essence, I am driven by a relentless pursuit of knowledge, blending technical expertise with a collaborative spirit and a passion for crafting solutions that truly make a difference.
 
 ### My Stack
-- 🧮 **Programming Languages** | JavaScript ES6+, Java 21, SQL, HTML5, CSS, Python 3, R 4.3.2
+- 🧮 **Programming Languages** | JavaScript ES6+, Java 21, SQL, MongoDB, HTML5, CSS, Python 3, R 4.3.2
 - 🖥️ **Front-End** | React 18, Next.js, DOM manipulation, HTMX
 - 🏭 **Back-End Frameworks** | Node, Django, FastAPI
-- 🐳 **Other** | Git, CI/CD, Docker, Deployment, Authorization, Tableau
+- 🐳 **Other** | Git, Microsoft Azure, Docker, Deployment, Authorization, Tableau
 - 🌱 I’m currently learning adding features to my Birddex group project and starting an instant messenger with friends from bootcamp.
 
 ### How to reach me
