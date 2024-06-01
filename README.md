@@ -6,6 +6,7 @@ I'm a software developer who's excited by the prospect of building tools that ot
 - [My Projects](#my-projects)
   - [Birddex](#birddex)
   - [Calends](#calends)
+  - [PDiF](#pdif)
   - [Portfolio](#portfolio-project)
   - [Chat-12](#chat-12)
   - [Lawn Mower](#lawn-mower)
@@ -60,6 +61,14 @@ I'm a software developer who's excited by the prospect of building tools that ot
 >
 > Topics: Web-scraping, Dynamic Rendering Web Page, API
 
+#### PDiF
+> `A simple utility to calculate diff on PDFs`<br>
+> [Live Site](https://pdiff.proficientdr.com)<br>
+> [Github Repo](https://www.github.com/jonalfarlinga/pdiff)<br>
+> Have you ever tried had to grade a second draft of a 15-page final? Only to find out the student only changed 3 words?! PDiF to the rescue! This app runs a Meyer's diffing algorithm on 2 pdfs and outputs the text of the pdf with removals highlighted in red, and additions highlighted in green.
+>
+> Topics: React, Azure Functions, API, Meyer's diff.
+
 #### Portfolio Project
 > `My cloud-hosted resume and portfolio page`<br>
 > [Live Site](https://portfolio.denny-buklin.net)<br>
@@ -79,8 +88,8 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > Topics: Flask, MongoDB, Data Design, Automated Testing
 
 #### Lawn Mower
-> `A system utility to keep the desktop clean`
-> [Github Repo](https://www.github.com/jonalfarlinga/lawn-mower)
+> `A system utility to keep the desktop clean`<br>
+> [Github Repo](https://www.github.com/jonalfarlinga/lawn-mower)<br>
 > I wrote this script to keep my computer desktop clean. I wrote an install batch file that sets the target directory and the desktop locations, and I created a run batch file that starts the script as a background process.
 >
 > The running script moves all files off the desktop every two minutes.
