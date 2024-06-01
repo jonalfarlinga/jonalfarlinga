@@ -24,11 +24,11 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > `Web Core`<br>
 > <img src="./docs/html_icon.png" width="40"></img>
 > <img src="./docs/css_icon.png" width="40"></img>
-> <img src="./docs/htmx_icon.svg" height="40"></img>
+> <img src="./docs/htmx_icon.png" height="40"></img>
 
 > `Frameworks`<br>
 > <img src="./docs/fastapi_icon.svg" width="40"></img>
-> <img src="./docs/flask_icon.png" height="40"></img>
+> <img src="./docs/white_flask_icon.png" height="40"></img>
 > <img src="./docs/react_icon.png" width="40"></img>
 > <img src="./docs/django_icon.png" width="40"></img>
 
