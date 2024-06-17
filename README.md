@@ -5,8 +5,9 @@ I'm a software developer who's excited by the prospect of building tools that ot
 - [My Stack](#my-stack)
 - [My Projects](#my-projects)
   - [Birddex](#birddex)
-  - [Calends](#calends)
-  - [PDiF](#pdif)
+  - [Proficient](#proficient)
+    - [Calends](#calends)
+    - [PDiF](#pdif)
   - [Portfolio](#portfolio-project)
   - [Chat-12](#chat-12)
   - [Lawn Mower](#lawn-mower)
@@ -49,7 +50,15 @@ I'm a software developer who's excited by the prospect of building tools that ot
 >
 > I integrated Azure blob storage in order to allow users to upload their own images to the site.
 >
-> Topics: Dynamic Rendering Web Page, User Authentication, API, SQL Database, Automated Testing
+> Topics: Dynamic Rendering Web Page, User Authentication, API, SQL Database, Automated Testing, Heroku
+
+#### Proficient
+> `A portal to your web-based teaching aid`<br>
+> [Live Site](https://www.proficientdr.com)<br>
+> [Gitlab Repo](https://github.com/jonalfarlinga/proficient)<br>
+> Proficient is a portal to my available teaching aids. We have [Pdiff](#pdiff) and [Calends](#Calends) with more to come! Proficient manages your login details accross all the apps, and keep an eye out for more functionality on the portal as well!
+>
+> Topics: Authentication, React, FastAPI, Rest, Automated Testing, CI/CD, SQL Database, CDN, DNS, Heroku
 
 #### Calends
 >  `A syllabus-building utility for professors`<br>
