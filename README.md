@@ -113,5 +113,5 @@ My approach to my work emphasizes practicality, prioritizing functionality while
 Looking ahead, I aspire to design impactful systems that aid people regardless of scale, aiming to be a reliable support figure and providing assistance when needed. In essence, I am driven by a relentless pursuit of knowledge, blending technical expertise with a collaborative spirit and a passion for crafting solutions that truly make a difference.
 
 ### How to Reach Me
-- 📫 Connect on GitHub or [LinkedIn](www.linkedin.com/in/dennis-bucklin)
-- ⛵ Check out my [portfolio](portfolio.denny-bucklin.net)
+- 📫 Connect on GitHub or [LinkedIn](https://www.linkedin.com/in/dennis-bucklin)
+- ⛵ Check out my [portfolio](https://portfolio.denny-bucklin.net)
