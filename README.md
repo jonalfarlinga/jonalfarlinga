@@ -21,6 +21,8 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > <img src="./docs/r_icon.png" width="40"></img>
 > <img src="./docs/mongodb_icon.svg" width="40"></img>
 > <img src="./docs/sql_icon.png" height="40"></img>
+> ![Go_d3427455-6e76-45bb-8e73-b1bf6fbb3d8c](https://github.com/user-attachments/assets/873d56c1-7e77-4798-bd9d-860023d7fb8e)
+
 
 > `Web Core`<br>
 > <img src="./docs/html_icon.png" width="40"></img>
