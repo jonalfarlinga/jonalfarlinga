@@ -9,6 +9,7 @@ I'm a software developer who's excited by the prospect of building tools that ot
     - [Calends](#calends)
     - [PDiF](#pdif)
   - [Portfolio](#portfolio-project)
+  - [Codename: true-quasar](#codename-true-quasar)
   - [Chat-12](#chat-12)
   - [Lawn Mower](#lawn-mower)
 - [About Me](#about-me)
@@ -87,6 +88,13 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > Following the Cloud Resume Challenge, I created my portfolio as a full stack app using Azure Storage hosting and Azure Functions. I used HTMX to build the single-page application with page updates served as strings from the Azure functions API.
 >
 > Topics: HTMX, Dynamic Rendering Web Page, API, Azure Function App
+
+#### Codename true-quasar
+> `A sci-fi hero-drafting game using Go and Ebiten`<br>
+> [Github Repo](https://github.com/jonalfarlinga/true-quasar)<br>
+> A full-screen game app where players draft a team of characters to take on boss monsters.
+>
+> Topics: Go, Game Design
 
 #### Chat-12
 > `An instant messaging app for developers`<br>
