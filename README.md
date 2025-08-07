@@ -45,6 +45,21 @@ I'm a software developer who's excited by the prospect of building tools that ot
 
 ### My Projects
 
+#### Bacnet/Bacnet-Connect
+> `A Go-native communication utility for BACnet UDP commincation, and a full stack app for ingesting and storing BACnet data.`<br>
+> [Bacnet Gitlab Repo](https://github.com/jonalfarlinga/bacnet)<br>
+> Bacnet is a Go utility orginally authored by [ulbios](https://github.com/ulbios/bacnet) to communicate via BACnet UDP with BAS equipment. I completed additional BACnet language processing, and added better logging and error handling. I used Wireshark to monitor BACnet packets and translate them from HEX. Then I coded the utility to decipher the resulting BACnet information. Any simple property request and most multiple property requests are supported in the current version.
+> [Bacnet-Connect Gitlab Repo](https://github.com/jonalfarlinga/bacnet-connect)
+> Provides a harvester that searches for BACnet points, requests properties, and stores present values in an Influx database. A frontend is provided for manually adding and removing points.
+> Topics: UDP/IP, BACnet, Influx, Go, Go channels, Goroutines
+
+#### Desigo_Python
+> `A Desigo API data harvester`<br>
+> [Gitlab Repo](https://github.com/jonalfarlinga/Desigo_CC_WSI_Python)<br>
+> An API utility written by [sirdethman](https://github.com/sirdethman/Desigo_CC_WSI_Python) for interacting with Desigo.
+> I forked and developed a harvester that manages a database and schedules harvesting of Desigo data.
+> Topics: DesigoCC, CLI, scheduling, threading, PostgresQL, timeseries database
+
 #### Birddex
 > `A lifelist app for birders`<br>
 > [Live Site](https://canarydevs.github.io/birddex)<br>
@@ -69,7 +84,7 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > [Github Repo](https://www.github.com/jonalfarlinga/calends-lite)<br>
 > This project uses a React front end hosted on Azure Storage and Azure Functions to serve the backend API. The business logic involves scraping html for data, then building a dictionary containing dates that can be rendered in HTML as a table-style calendar.
 >
-> This project was originally using Django backend. I rebuilt the backend in FastAPi, and at the same time switched from a `create-react-app` front end to `Vite`. I then rebult the backend for Azure Functions.
+> This project was originally using Django backend. I rebuilt the backend in FastAPI, and at the same time switched from a `create-react-app` front end to `Vite`. I then rebult the backend for Azure Functions.
 >
 > Topics: Web-scraping, Dynamic Rendering Web Page, API
 
