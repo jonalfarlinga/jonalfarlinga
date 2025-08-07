@@ -4,6 +4,8 @@ I'm a software developer who's excited by the prospect of building tools that ot
 
 - [My Stack](#my-stack)
 - [My Projects](#my-projects)
+  - [Bacnet/Bacnet-Connect](#bacnetbacnet-connect)
+  - [Desigo CC WSI Python](#desigo_cc_wsi_python)
   - [Birddex](#birddex)
   - [Proficient](#proficient)
     - [Calends](#calends)
@@ -53,7 +55,7 @@ I'm a software developer who's excited by the prospect of building tools that ot
 > Provides a harvester that searches for BACnet points, requests properties, and stores present values in an Influx database. A frontend is provided for manually adding and removing points.
 > Topics: UDP/IP, BACnet, Influx, Go, Go channels, Goroutines
 
-#### Desigo_Python
+#### Desigo_CC_WSI_Python
 > `A Desigo API data harvester`<br>
 > [Gitlab Repo](https://github.com/jonalfarlinga/Desigo_CC_WSI_Python)<br>
 > An API utility written by [sirdethman](https://github.com/sirdethman/Desigo_CC_WSI_Python) for interacting with Desigo.
